@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is chapter 1.And I am in master.
+=======
+This is chapter 1. This is the change i made now. I am in branch1.
+>>>>>>> branch1
